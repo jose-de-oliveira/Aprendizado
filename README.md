@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/jose-de-oliveira/Aprendizado/blob/main/a43251b6-c774-411a-862b-5badfc753922.png" width=30%>
+</p>
+
 # Aprendizado
 Documentos sobre métodos e ferramentas que aprendi ao longo da minha carreira
 
